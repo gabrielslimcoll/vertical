@@ -16,4 +16,6 @@ Unlike in many private sector industries, stakeholders in the public sector do n
 The impact of potential government investments is generally evaluated in terms of financial costs. And the list of investment options that get evaluated is quite short, limited mainly to legislative proposals or agency recommendations. We rely primarily on the Congressional Budget Office for these types of assessments, whose role is to provide independent analysis of the budgetary and economic impact that public policies may have. For instance, the CBO provides helpful reports that examine the specific costs associated with Department of Defense proposals. But why stop there?<br/><br/>
 First, we should more comprehensively evaluate government investments to include other factors such as personnel requirements, the impact on jobs, and the implications on capacity or capabilities. Second, we should have the ability to evaluate a longer list of investment options and to compare those plans against each other. This app is designed to do just that for the U.S. vertical lift fleet, and is just one small step in that direction.<br/><br/><p/> 
 <p>
-![](screenshots/vertical.png "")
+<a href="https://github.com/gabrielslimcoll/vertical/blob/master/screenshots/vertical.png">
+  <img src="https://github.com/gabrielslimcoll/vertical/blob/master/screenshots/vertical.png" width="100%" height="100%">
+</a>
