@@ -1,4 +1,4 @@
-# vertical
+# Build your own vertical lift fleet
 ![](screenshots/verticalgraphic2.png "")
 We designed this app to give our audience the ability to build their own vertical lift fleet. In seconds, you can see the impact that your custom fleet plan would have on a range of factors.<br/><br/>
 You can build more helicopters, retire existing helicopters, develop new platforms, change the build / retire rate, adjust cost and performance assumptions, and much more. The factors that we account for include: acquisition cost, operations and support costs, research and development costs, crew size, passenger capacity, speed, range, and takeoff weight.<br/><br/>
