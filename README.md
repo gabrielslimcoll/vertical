@@ -10,7 +10,6 @@ You can build more helicopters, retire existing helicopters, develop new platfor
 - speed
 - range
 - takeoff weight
-<br/>
 <p>
 The U.S. military faces the challenge of how to allocate resources between operating existing fleets, maintaining industrial capacity, and developing new capabilities. These decisions involve many stakeholders, including leaders within Congress, the White House, industry, Army, Navy, Marines, and Air Force.<br/><br/>
 Unlike in many private sector industries, stakeholders in the public sector do not share access to tools that make it easy to understand and plan for investments. While key stakeholders can hold different and sometimes competing perspectives, there are many areas of common ground. But progress requires more than a shared vision. It also relies on developing a better understanding of our current plans and the potential impact of new investments.<br/><br/>
