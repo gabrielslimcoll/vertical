@@ -1,5 +1,8 @@
 # Build your own vertical lift fleet
 ![](screenshots/verticalgraphic2.png "")
+<p align="center">
+  <b>
+  <a href="http://analytics.csis.org/navy-/">View the app on analytics.csis.org</a></b><p/> 
 We designed this app to give our audience the ability to build their own vertical lift fleet. In seconds, you can see the impact that your custom fleet plan would have on a range of factors.<br/><br/>
 You can build more helicopters, retire existing helicopters, develop new platforms, change the build / retire rate, adjust cost and performance assumptions, and much more. The factors that we account for include: <br/> 
 - acquisition cost
